@@ -1,5 +1,8 @@
 # これはなに
 びっくり箱です。撮影用MODとしてお使いください。  
+
+![image](https://github.com/routehachi/r8_CM3D2_Mod/blob/master/%E3%81%B3%E3%81%A3%E3%81%8F%E3%82%8A%E7%AE%B1/sample1.jpg "びっくり箱")
+
 中にはコインが入っておりますが、取り出してもお金(CR)は増加しません。ご了承ください。  
 RimPowerを4と強めにしている為、角度を変えてみると結構反射します。  
 
@@ -8,9 +11,6 @@ RimPowerを4と強めにしている為、角度を変えてみると結構反射します。
 　・coinY  
 　・cubesize  
 　・coinsize  
-
-# インストール
-「びっくり箱」フォルダをSybaris\GameData内にコピーしてください。
 
 # 規約
 ※MODはKISSサポート対象外です。
