@@ -6,7 +6,7 @@
 * 公式撮影モードでの動作確認はしていません。
 * 体型によってうまくポーズが決まらないことがあるので、各自で微調整をお願いします。
 
-# Thumnails 
+# Thumbnails 
 
 ## azatosuwari
 [参考SS（NSFW注意）](https://mstdn.maud.io/@r8_gre/99072708675948226 "あざといやつ") 
