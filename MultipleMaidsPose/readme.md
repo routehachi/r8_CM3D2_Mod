@@ -16,3 +16,4 @@
 
 ## thinking_face
 ![this](https://github.com/routehachi/r8_CM3D2_Mod/blob/master/MultipleMaidsPose/thinking_face.jpg ":thinking_akane:")  
+[表情再現方法](https://mstdn.maud.io/@r8_gre/99076639027938209)  
